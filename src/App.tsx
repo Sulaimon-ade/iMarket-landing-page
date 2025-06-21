@@ -113,8 +113,7 @@ function App() {
           </div>
           <a
             href="https://docs.google.com/forms/d/e/1FAIpQLSdSCgl15NIDNx-MOyajbJrob4tS-1rGzxgUO5V5lw1V_jo0yA/viewform?usp=header"
-            className="inline-flex items-center bg-[#F9C80E] text-black px-8 py-4 rounded-full text-lg font-semibold hover:bg-yellow-400 transition-all duration-300 transform hover:scale-105 shadow-lg"
-          >
+            className="inline-flex items-center bg-[#F9C80E] text-black px-8 py-4 rounded-full text-lg font-semibold hover:bg-yellow-400 transition-all duration-300 transform hover:scale-105 shadow-lg">
             Join Early Access
             <ArrowRight className="ml-2 w-5 h-5" />
           </a>
