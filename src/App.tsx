@@ -8,7 +8,7 @@ function App() {
       <section className="bg-gradient-to-br from-yellow-400 via-[#F9C80E] to-yellow-500 px-4 py-16 md:py-24">
         <div className="max-w-4xl mx-auto text-center">
           <h1 className="text-4xl md:text-6xl font-bold text-black mb-4">
-            Find Any Product in Any<br />Market/Plaza — Fast
+            Digitizing Nigeria's<br />Local Markets
           </h1>
           <p className="text-xl md:text-2xl text-black/80 mb-8 font-medium">
             Starting with Banex Plaza, Abuja
